@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Ashwin Singh
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ashwin
+last_name: Singh
 
 # Status emoji
 status:
@@ -17,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Advisory Designer, UX Design
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: IBM-Security
+    url: https://www.ibm.com/security
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Grassroot research with design led expertise, bring out experiences that change behaviours.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,6 +51,7 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+With 6 years of industry practice, I’ve been creating seamless experiences through deep understanding of user
+behaviours. I am currently working on cloud based enterprise solutions with a diverse and distributed team.
+I’ve also been mentoring design interns and leading development teams in understanding importance of user 
+research and experience.
